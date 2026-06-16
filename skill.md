@@ -1,3 +1,8 @@
+---
+name: website-to-prompt
+description: Analyze a website's visual design language and extract UI style prompts. Use when the user wants to capture design DNA from a website (color system, typography, components, visual effects, motion language) and generate reusable AI design prompts for recreating similar aesthetics.
+---
+
 # UI Style Extraction Skill
 
 ## Role
